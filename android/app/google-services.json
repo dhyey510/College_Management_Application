@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "898560917813",
+    "project_id": "cspit-it-app",
+    "storage_bucket": "cspit-it-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898560917813:android:44dab6d9b751780ce38c7c",
+        "android_client_info": {
+          "package_name": "com.college.cspit_sgp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898560917813-0a5j54rfav7n04f7e23jl06d7qogc459.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQJYIhA8LOCy08viHUoZKzi7aCIXeiEdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898560917813-0a5j54rfav7n04f7e23jl06d7qogc459.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
